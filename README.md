@@ -12,15 +12,9 @@ And Please keep your country laws about copylight when you use it.
 ご使用の際はお住まいの国の著作権法を必ず守ってご利用ください。
 
 You'll need for using it:
-Apple's music gadgets that can use Airplay - like iPhone,iPod and iPad.
-Raspberry Pi model B 512MB
-8GB SD Card
-USB DAC
+Apple's music gadgets that can use Airplay - like iPhone,iPod and iPad,Raspberry Pi model B 512MB,8GB SD Card,USB DAC
 
-なお以下のものを必要とします。
-Airplayが可能なAppleのガジェット - iPhone,iPod,iPadなど
-Raspberry Pi model B 512MB
-8GB SDカード
+なお以下のものを必要とします。Airplayが可能なAppleのガジェット - iPhone,iPod,iPadなど,Raspberry Pi model B 512MB,8GB SDカード
 USB DAC
 
 Hava a fun!　-May
